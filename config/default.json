@@ -1,0 +1,15 @@
+{
+  "themeConfig": {
+    "logo": {
+      "alt": "Your amazing shop logo",
+      "src": "/custom_logo.svg",
+      "width": 50,
+      "height": 50
+    },
+    "title": "ProGym Mart",
+    "seo": {
+      "title": "ProGym Mart",
+      "description": "Your best gym essentials store"
+    }
+  }
+}
